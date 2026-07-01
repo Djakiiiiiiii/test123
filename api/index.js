@@ -6,7 +6,7 @@ export default function handler(req, res) {
         "use": "sig",
         "kid": "2cbc0ff1-62ba-4b31-af99-1e5a064c5ddd",
         "alg": "RS256",
-        "n": "06kKwrqtiZjKw3J0ZwIr_s3gfKia9iPttLR7MhdCXold9R72tyBT4OLNQxxIup5uDSR0Q8wx_FJvtRqfjC8mz4yKroYquaYwuE9SucTY-nGAu2wYd_kBC-iRPXqhuBmoc5OW35QssUNicrQyHpwAGbx6jqGx_ssyXHCbTaqiFAw-5aivLW4RR8L2CGw8MHR2LdhoARNZubLvavZNVQS_O6jdZtIHykTnrTff-mRQOzP3mn7rSTLHhsMbHPBcN2jW2RQoD6ifF7W5WFjwYDcibQMakPvJFXbneTGUfvgIvpXAjHzSRNiJaXnsLt2i8hagVxz6qb0AKskrJxHJL4bSVQ",
+        "n": "2yClzeAQsJ92igvwwQH0r8UxXUd45IX4sbbLKF9bmTeW7iKXdV16vM8wJFEkuP9XS4GOj4CBJFiD4EMYvxfa9DL4AMeS3XWkwvVBoPl8-zC40Gk-MmafbE9xikLgptHxZzxQAZe6jyUjqa0hxx--lTkS2T0ewhNGNdzubPnego0OppjVZCCjrxyqYWX0onWTOFUdZ6g-Sx7oL21BA8znDh7BDU8hPnoV2PP6LWir8x_1CNCjftjXXrA5V-PN1R0zZ3ouBnEjilLSsmhHc2TbhJl3OYAxZNk7t2O_bvBuiA7niNBnGL-sy_ZO9f2hYFsb7Ivyy3Xgb0FjqUq9UrBwHQ",
         "e": "AQAB"
       }
     ]
