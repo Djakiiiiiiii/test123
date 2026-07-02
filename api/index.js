@@ -1,15 +1,16 @@
 export default function handler(req, res) {
   const jwks = {
-    "keys": [
+  "keys": [
     {
       "kty": "RSA",
       "use": "sig",
-      "kid": "2cbc0ff1-62ba-4b31-af99-1e5a064c5ddd",
+      "kid": "2569422a-12bb-42d1-b4ca-266f31bd179d",
       "alg": "RS256",
-      "n": "u7szzpyQZUUxDCPWuGzCW3Z15-WhXt_X82rx2LQkq-gYAFGF2SgtXOTJQG-miW7WPzRnZBsSAjdpqma6D9HSsoD0I879lD6Lh9pMv-nAqtM73ps3KcjjJcgl_CsoGfYgaOOEOftxeA5koOJGvVQjR2-o0sl8R7XRr5_TTnM6RndzcRqSJB6GB2JTN81FkB6ot4oHcF8K-ndXiNHbpYYZc48sQP5DahgXbFvNrUC-03laS4Bh3GVdSbF1Uc2iQ4QH8RuCWjuee5iri5eJSsoIylFK0KF4NWAk_rhThfyRBlmk0fML9u__H-2EW_GwO9mj9PsCwqV7adXJnGDLK11U1w",
+      "n": "vfzte8bD4MjW6OhgsTpyJU0bgO5jN1wg0-g_tynO1uFBYr3XidEr8jB5sY486gpv-RhNSa_oYuD7NcZZmt45b_dNg27TFAAz72afFnfDlQnNKIqSNMXDz3w_LQQMh2et5Oerh8CGnOYEiv3tVv-n0uCnpQEXtHFY3lyDN9WYFAGmwIHdhbjbBrshfhKQz6MAanG_Hf_eE8v3epErp2H84PrpEDyrK2zzHVDYNb5mhNP47mB2z1bw7OFBqdur28GzE_cVx-x9nQFKyTRkPpZUajC1N3gnhfNsKQw9-1o1hjrsKLlcNDZwHuUOlZO_Njhe5tx6ZTQQSZYMVO2AwQpLAw",
       "e": "AQAB"
     }
   ]
+
   };
   
   res.setHeader('Content-Type', 'application/json');
